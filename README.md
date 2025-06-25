@@ -47,6 +47,7 @@ Follow the prompts to set up your webhook.
 Users join by typing `lucky`, max 10 participants, 2 winners.
 
 ## Example Bot
+
 [@BaiyunLotteryBot](https://t.me/BaiyunLotteryBot)
 ---
 
