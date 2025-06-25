@@ -48,7 +48,7 @@ Users join by typing `lucky`, max 10 participants, 2 winners.
 
 ## Example Bot
 
-[@BaiyunLotteryBot](https://t.me/BaiyunLotteryBot)
+- [@BaiyunLotteryBot](https://t.me/BaiyunLotteryBot)
 ---
 
 **Developed by Airp** | [@Airp2008](https://t.me/Airp2008)
