@@ -39,7 +39,7 @@ Follow the prompts to set up your webhook.
 - KV namespace bound as `LOTTERY`
 - Environment variable `ENV_BOT_TOKEN` configured
 
-# Usage Example
+### Usage Example
 
 ```
 /create "Daily Prize" lucky 10 2
